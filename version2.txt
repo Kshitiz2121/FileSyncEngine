@@ -1,0 +1,7 @@
+# README
+
+Welcome to the File Sync Engine project.
+This tool is developed in C for learning OS-level concepts.
+It supports diff and simple merging strategies.
+
+Appreciate your feedback and contributions.

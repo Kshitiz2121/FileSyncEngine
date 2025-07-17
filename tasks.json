@@ -1,0 +1,24 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build C Project",
+      "type": "shell",
+      "command": "gcc",
+      "args": [
+        "main.c",
+        "file_reader.c",
+        "version_tracker.c",
+        "diff_engine.c",
+        "merge_engine.c",
+        "-o",
+        "file_sync_engine.exe"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": ["$gcc"]
+    }
+  ]
+}

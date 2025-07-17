@@ -1,0 +1,7 @@
+# README
+
+Welcome to the File Sync Engine.
+This tool is written in C to emulate basic version control.
+It now supports three-way merging and colored diffs.
+
+Thank you for your contributions!

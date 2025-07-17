@@ -1,0 +1,7 @@
+# README
+
+Welcome to the File Sync Engine project.
+This tool is written in C to simulate version control behavior.
+It supports in-memory diffing and merging.
+
+Thank you for contributing.
